@@ -14,7 +14,7 @@ This repository hosts the code for my revamped personal portfolio website, a fre
 ● Dynamic Portfolio Gallery: Showcases my latest projects with detailed case studies.
 ● Interactive Elements: Smooth scroll, hover effects, and engaging micro-interactions.
 ● Blog Section (Optional): Shares insights on design, branding, and entrepreneurship.
-● Enhanced Contact Options: Integration with email and social platforms for seamless communication.
+● Enhanced Contact Options: Integration with email and social platforms for seamless communication
 
 ## Contact
 
