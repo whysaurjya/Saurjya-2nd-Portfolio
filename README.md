@@ -1,4 +1,4 @@
-## Saurjy Acharya 2nd Personal portfolio
+# Saurjy Acharya 2nd Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -15,12 +15,6 @@ This repository hosts the code for my revamped personal portfolio website, a fre
 ● Interactive Elements: Smooth scroll, hover effects, and engaging micro-interactions.
 ● Blog Section (Optional): Shares insights on design, branding, and entrepreneurship.
 ● Enhanced Contact Options: Integration with email and social platforms for seamless communication.
-
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo]("https://diziver.com/assets/imgs/websites/2.jpg")
 
 ## Contact
 
